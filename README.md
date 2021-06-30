@@ -1,2 +1,5 @@
 # Zomato-NLP
 A part of my ongoing research work for submission under Kora Management LP
+
+
+The advent of digital technologies has increased the use of creativity and has reshaped the existing markets. The worldwide boom in the digital industry has influenced the Indian economy. With digitalization, the food industry has adopted an e-commerce platform for the customers to place an order through mobile-based apps and get delivery of food at their doorsteps. Among many such service providers, Zomato is the most popular apps providing an online food delivery service to explore restaurants to the customers. This study analyses the marketing mix, positioning strategies, competitive and SWOC analysis of Zomato. The overall analysis suggested Zomato explore rural areas and provide virtual restaurant tours to enhance service capabilities. The study concludes that Zomato's positioning strategy is well defined to capture the market but requires to frame more strategies to survive in a competitive environment. Implications of Zomato have been discussed.
